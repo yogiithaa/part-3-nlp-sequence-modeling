@@ -1,0 +1,9 @@
+Message: The product quality is amazing
+Predicted Sentiment: positive
+
+Message: I am very disappointed with the service
+Predicted Sentiment: positive
+
+Message: The issue was resolved successfully
+Predicted Sentiment: positive
+
